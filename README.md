@@ -7,7 +7,7 @@
 
 ## Opis projektu
 
-Projekt realizowany w ramach przedmiotu XYZ na uczelni ABC. Polega na analizie danych sprzedaży kawy w celu opracowania modeli predykcyjnych do przewidywania typu kawy na podstawie cech takich jak wielkość opakowania, typ palenia, cena za jednostkę itp.
+Projekt realizowany w ramach przedmiotu "Projekt z zakresu analizy danych" na Politechnice Lubelskiej. Polega na analizie danych sprzedaży kawy w celu opracowania modeli predykcyjnych do przewidywania typu kawy na podstawie cech takich jak wielkość opakowania, typ palenia, cena za jednostkę itp.
 
 ## Zbiór danych
 
